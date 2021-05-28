@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="769px" viewBox="0 0 1366 769" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg_hero_1</title>
+    <defs>
+        <linearGradient x1="228.001953%" y1="-10838.9647%" x2="7.9268111%" y2="3333.40699%" id="linearGradient-1">
+            <stop stop-color="#F28B74" offset="0%"></stop>
+            <stop stop-color="#F6A592" offset="37.8050051%"></stop>
+            <stop stop-color="#CB7A68" offset="64.4884656%"></stop>
+            <stop stop-color="#F4836A" offset="86.3%"></stop>
+            <stop stop-color="#F28B74" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="117.1%" y1="2.2%" x2="18.9%" y2="106.8%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.051" offset="68.6%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="246.5%" y1="-2298.30394%" x2="1.7%" y2="734.539985%" id="linearGradient-3">
+            <stop stop-color="#F28B74" offset="0%"></stop>
+            <stop stop-color="#C87360" offset="49.8%"></stop>
+            <stop stop-color="#EA8F7A" offset="64.7%"></stop>
+            <stop stop-color="#C56F5C" offset="86.3%"></stop>
+            <stop stop-color="#F28B74" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="248%" y1="-529.7%" x2="3.2%" y2="224.8%" id="linearGradient-4">
+            <stop stop-color="#F28B74" offset="0%"></stop>
+            <stop stop-color="#F6A592" offset="37.8050051%"></stop>
+            <stop stop-color="#CB7A68" offset="64.4884656%"></stop>
+            <stop stop-color="#F4836A" offset="86.3%"></stop>
+            <stop stop-color="#F28B74" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="246.5%" y1="-487.9%" x2="1.7%" y2="206.8%" id="linearGradient-5">
+            <stop stop-color="#F28B74" offset="0%"></stop>
+            <stop stop-color="#C87360" offset="49.8%"></stop>
+            <stop stop-color="#EA8F7A" offset="64.7%"></stop>
+            <stop stop-color="#C56F5C" offset="86.3%"></stop>
+            <stop stop-color="#F28B74" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.051" offset="68.6%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ehealth-Planning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg_hero_1" transform="translate(0.000000, 0.000000)" fill-rule="nonzero">
+            <path d="M825.493,769 L1366,769 L1366,0 L787.67,0 C753.652,19.44 707.07,54.269 675.5,112.5 C629.34,197.632 618.173,327.393 677.5,374.5 C745.275,428.315 853.53,333.355 917.5,380.5 C989.238,433.37 996.314,603.355 913.5,703.5 C887.855,734.511 856.568,755.2 825.493,769 Z" id="Path_2" fill="url(#linearGradient-1)"></path>
+            <path d="M1230,181 C1245.286,288.84 1297.584,299.235 1310,387 C1327.149,508.223 1250.667,651.966 1186,651 C1138.037,650.284 1159.329,520.381 1054,423 C976.6,351.438 856.484,318.674 826,353 C820.732,358.932 818.432,366.54 818.068,375.159 C854.883,366.136 890.219,360.394 917.5,380.5 C968.69,418.226 986.942,515.581 963.117,604.644 C988.855166,630.083418 1013.18568,656.908646 1036,685 C1067.9,724.344 1083.912,750.3 1096.586,769 L1366,769 L1366,0 L1256.013,0 C1222.947,44.995 1222.509,128.156 1230,181 Z" id="Path_3" fill="url(#linearGradient-2)" opacity="0.3"></path>
+            <path d="M354.425,250.868 C357.515,228.868 310.275,185.621 264.325,170.875 C251.283,166.69 175.925,142.506 150.243,207.235 C144.7,221.208 134.159,254.213 144.429,267.835 C154.004,280.535 201.107,277.535 267.229,254.502 C336.936,230.228 352.533,264.342 354.425,250.868 Z" id="Path_4" fill="url(#linearGradient-3)" opacity="0.14"></path>
+            <path d="M302.5,640.5 C188.141,626.27 61.9,670.114 0,718.08 L0,769 L568.728,769 C482.868,728.31 422.313,655.409 302.5,640.5 Z" id="Path_5" fill="url(#linearGradient-4)"></path>
+            <path d="M0,675.837 L0,755 L523.728,755 C437.868,714.31 377.313,641.409 257.5,626.5 C166.35,615.158 67.651,640.71 0,675.837 Z" id="Path_6" fill="url(#linearGradient-5)" opacity="0.19"></path>
+            <circle id="Ellipse_1" fill="#FFFFFF" opacity="0.2" cx="1107.5" cy="86.5" r="11.5"></circle>
+            <circle id="Ellipse_2" fill="#FFFFFF" opacity="0.12" cx="752" cy="365" r="3"></circle>
+            <circle id="Ellipse_3" fill="#FFFFFF" opacity="0.2" cx="1126" cy="412" r="8"></circle>
+            <circle id="Ellipse_4" fill="#FFFFFF" opacity="0.13" cx="782" cy="42" r="7"></circle>
+            <path d="M816,287 C843.106,237.468 829.91,167.508 796,149 C770.293,134.969 747.1,158.377 724,143 C701.773,128.2 704.96,94.361 704.325,69.683 C693.377559,83.0066796 683.725542,97.3439002 675.5,112.5 C657.021,146.58 644.159,187.811 639.173,228.029 C648.67078,237.202388 656.407504,248.038276 662,260 C682.979,303.72 665.722,329.376 685,344 C712.767,365.064 786.612,340.7 816,287 Z" id="Path_7" fill="url(#linearGradient-6)" opacity="0.3"></path>
+        </g>
+    </g>
+</svg>
